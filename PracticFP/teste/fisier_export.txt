@@ -1,0 +1,6 @@
+alex;papa;1975;Altele
+alex;papagal;1993;Comedie
+alex;pascolopol;1965;Comedie
+doina;papa;1955;Satira
+mirel;papa;1977;Comedie
+razvan;asda;1973;Drama

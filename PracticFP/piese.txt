@@ -1,0 +1,11 @@
+Marele Alb;Segiu Nicolaescu;Drama;130
+Artimon;Ada Milea;Comedie;150
+papa;alex;Drama;200
+papagal;razvan;Drama;110
+Limita Extrema;George Stiven;Drama;180
+Red Metal;Ana Tocat;Drama;200
+Extaz Ana;Blandiana;Comedie;150
+Luceafarul;Mihai Eminescu;Drama;115
+Catelul;Elena Farago;Comedie;100
+Dexter;Richard;Satira;100
+

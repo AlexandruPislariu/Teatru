@@ -1,0 +1,13 @@
+Ada Milea;Artimon;2000;Comedie
+Ana Tocat;Red Metal;2000;Drama
+Blandiana;Extaz Ana;2000;Comedie
+Elena Farago;Catelul;2000;Comedie
+George Stiven;Limita Extrema;2000;Drama
+Mihai Eminescu;Luceafarul;2000;Drama
+Richard;Dexter;2000;Satira
+Segiu Nicolaescu;Marele Alb;2000;Drama
+alex;papa;2000;Drama
+heze lizi;jibu foma;2000;Satira
+lefi moto;pige cize;2000;Drama
+razvan;papagal;2000;Satira
+yume haza;dude luqo;2000;Drama
